@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=32&pause=1000&color=F70C0C&width=435&height=60&lines=Ivanov Vlad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=32&pause=1000&color=F70C0C&width=435&height=60&lines=Ivanov+Vlad)](https://git.io/typing-svg)
 
 <!--
 **RATARETO/RATARETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
