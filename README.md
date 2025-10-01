@@ -14,7 +14,7 @@
   2. Django
      1. html
      2. css
-     3. js (нюхал)
+     3. js ( нюхал )
      4. оптимизация html от django 
   4. Numpy
   5. kivy
