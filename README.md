@@ -17,7 +17,7 @@
      3. js (нюхал)
      4. оптимизация html от django 
   4. Numpy
-  5. kivy
+  5. kivy 
   6. requests
   7. os
   8. sys
